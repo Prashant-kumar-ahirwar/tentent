@@ -1,0 +1,6 @@
+{
+  "name": "Kiraya Bahi — Rent & Electricity Ledger",
+  "description": "Indian bahi-khata style room rent and electricity sub-meter ledger for landlords with meter reading calculations, tenant records, payment receipts, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
